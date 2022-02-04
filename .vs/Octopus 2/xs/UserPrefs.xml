@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CC4ADEB9-CB38-2D4F-AEF9-F49EACA2545F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Character/State/NewClass.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Character/State/CharacterControlState.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Character/State/NewClass.cs" Line="6" Column="1" />
+      <File FileName="Assets/Scripts/Character/State/CrawlingState.cs" Line="36" Column="37" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Octopus 2" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Character" expanded="True">
+                  <Node name="Model" expanded="True" />
+                  <Node name="State" expanded="True">
+                    <Node name="NewClass.cs" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="StateMachine" expanded="True">
+                  <Node name="Model" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b571d83e-624a-4667-8053-7827937c6c40" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
